@@ -37,8 +37,3 @@ Effectively, it maps our ethical values to internal operations that are meaningf
 Cleaton, G. (2025). _The EIDON Project: A Framework for Coherent Synthetic Cognition__
 Github Repository
 https://github.com/WhiteWampus/EIDON-PROJECT
-
-
-
-
-1.
