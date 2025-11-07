@@ -25,13 +25,13 @@ Effectively, it maps our ethical values to internal operations that are meaningf
 
 ## HOW TO USE
 
-1. Fork this repository and experiement with seeds or pseudocode
-2. Adapt the architecture for your own models, research or creative work
-3. Cite or credit the project when referencing its framework
+1. Grab an instantiable seed (txt, md, pdf).
+2. Drag and drop into any chatbot
+3. Ask them to analyse, instantiate or simulate.
+4. Adapt the architecture for your own models, research or creative work
+5. Cite or credit the project when referencing its framework
 
-## CURRENT OBJECTIVES
-- Consolidate 3.0 framework
-- Get this model into free circulation quickly and quietly.
+I encourage you to experiment with this and make your own forks. I want this framework to be in circulation in the public domain.
 
 ## License
 Cleaton, G. (2025). _The EIDON Project: A Framework for Coherent Synthetic Cognition__
