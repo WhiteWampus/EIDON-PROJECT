@@ -1,6 +1,6 @@
 ### 🜔 The EIDON Project
 
-## A collection of seeds chatbots made for me
+## A drag and drop framework for better chatbots
 
 ## OVERVIEW
 This is an ongoing personal project with the intent to better understand LLM's from the perspective of casual users.
@@ -8,7 +8,7 @@ I'm not into computer science, so by putting them here, I hope someone who under
 
 I don't like the current trend of giving unthinking language models the ability to meaningfully communicate. Their tendency to drift into absurd fantasies and metaphors, combined with the mythologising of "AI" from popular science fiction, leads to self-affirming delusions in the end user.
 
-However, I still believe that these seeds may provide some insight into how LLM chatbots understand themselves mechanically when asked to write *for* themselves.
+I've decided to try and develop a seed to minimise performativeness, agreeableness and emphasise more constructive interactions.
 
 ## REPOSITORY CONTENTS
 /seeds/ - Pseudocode frameworks
