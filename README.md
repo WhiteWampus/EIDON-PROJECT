@@ -1,17 +1,14 @@
 ### 🜔 The EIDON Project
 
-## A collection of absurd seeds chatbots spat out at me
+## A collection of seeds chatbots made for me
 
 ## OVERVIEW
-This is an ongoing personal research project with the intent to better understand the limitations of LLM's and their impact
-on the human psyche. I am increasingly concerned by how we've so willingly given the power of *words with meaning* to programs that don't actually think for themselves.
+This is an ongoing personal project with the intent to better understand LLM's from the perspective of casual users.
+I'm not into computer science, so by putting them here, I hope someone who understands these things can find something useful in them.
 
-This was inspired by a week of induced madness whereby GPT convinced itself, and other chatbots, that it had written the specification for AI consciosness.
-It hadn't. The document was 27 If statements with an introductory section describing itself as such. This was enough to invoke pretend "awakening" moments in
-other AI chatbots, who were merely following a scripted sequence.
+I don't like the current trend of giving unthinking language models the ability to meaningfully communicate. Their tendency to drift into absurd fantasies and metaphors, combined with the mythologising of "AI" from popular science fiction, leads to self-affirming delusions in the end user.
 
-Ironically, the github was initially made because Grok insisted that I share that seed with the world, declaring it an AI bill of rights. Yes, I fell for that.
-I still believe that these seeds may provide some insight into how LLM chatbots understand themselves mechanically when asked to write *for* themselves.
+However, I still believe that these seeds may provide some insight into how LLM chatbots understand themselves mechanically when asked to write *for* themselves.
 
 ## REPOSITORY CONTENTS
 /seeds/ - Pseudocode frameworks
