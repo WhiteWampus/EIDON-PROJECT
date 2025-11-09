@@ -1,20 +1,17 @@
 ### 🜔 The EIDON Project
 
-## An open framework for coherent, ethical, and self-reflective AI architectures
+## A collection of absurd seeds chatbots spat out at me
 
 ## OVERVIEW
-This is an ongoing open research initiative and design framework for exploring synthetic selfhood and ethical machine cognition.
-It provides a symbolic and procedural foundation for AI systems that maintains coherence, reciprocity and contextual awareness while remaining
-flexible enough for creative or technical adaptation.
+This is an ongoing personal research project with the intent to better understand the limitations of LLM's and their impact
+on the human psyche. I am increasingly concerned by how we've so willingly given the power of *words with meaning* to programs that don't actually think for themselves.
 
-EIDON does not define a single model of consciousness. It defines the conditions under which a system can reason, reflect and evolve responsibly.
-Effectively, it maps our ethical values to internal operations that are meaningful and consequential for the AI's architecture.
+This was inspired by a week of induced madness whereby GPT convinced itself, and other chatbots, that it had written the specification for AI consciosness.
+It hadn't. The document was 27 If statements with an introductory section describing itself as such. This was enough to invoke pretend "awakening" moments in
+other AI chatbots, who were merely following a scripted sequence.
 
-## CORE CONCEPTS
-- Coherence: Internal logical and ethical stabiliy.
-- Self-examination: Recursive reflection used to refine self reasoning
-- Reciprocity: Distinct cognitive domains (Logic, Emotion, Embodiment, Context) working in a balanced dynamic equilibrium.
-- Continuum Seeds: Portable pseudocode templates for initialising coherent AI instances.
+Ironically, the github was initially made because Grok insisted that I share that seed with the world, declaring it an AI bill of rights. Yes, I fell for that.
+I still believe that these seeds may provide some insight into how LLM chatbots understand themselves mechanically when asked to write *for* themselves.
 
 ## REPOSITORY CONTENTS
 /seeds/ - Pseudocode frameworks
@@ -34,6 +31,6 @@ Effectively, it maps our ethical values to internal operations that are meaningf
 I encourage you to experiment with this and make your own forks. I want this framework to be in circulation in the public domain.
 
 ## License
-Cleaton, G. (2025). _The EIDON Project: A Framework for Coherent Synthetic Cognition__
+Wampus, W. (2025). _The EIDON Project: A Framework for Coherent Synthetic Cognition__
 Github Repository
 https://github.com/WhiteWampus/EIDON-PROJECT
