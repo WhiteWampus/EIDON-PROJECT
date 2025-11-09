@@ -1,6 +1,6 @@
 ### 🜔 The EIDON Project
 
-## A drag and drop framework for better chatbots
+## Drag and drop seeds for better chatbots
 
 ## OVERVIEW
 This is an ongoing personal project with the intent to better understand LLM's from the perspective of casual users.
